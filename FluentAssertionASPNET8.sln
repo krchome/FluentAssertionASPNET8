@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentAssertionASPNET8", "FluentAssertionASPNET8\FluentAssertionASPNET8.csproj", "{393EE160-BC87-4A5B-8E52-B89C9017F260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393EE160-BC87-4A5B-8E52-B89C9017F260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393EE160-BC87-4A5B-8E52-B89C9017F260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393EE160-BC87-4A5B-8E52-B89C9017F260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393EE160-BC87-4A5B-8E52-B89C9017F260}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {362CFC3D-9C79-4A3B-BAA7-C459CA5C0B5E}
+	EndGlobalSection
+EndGlobal
